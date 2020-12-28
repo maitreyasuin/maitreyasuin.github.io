@@ -1,13 +1,21 @@
-I am a PhD student at **[Image Processing and Computer Vision Lab, IIT Madras](http://www.ee.iitm.ac.in/ipcvlab/)**. I received my Bachelors Degree in Electrical Engineering from **[Institute of Engineering and Management, Kolkata](http://iem.edu.in/)**.  My research lies at the intersection of Image Processing/Computer Vision and Deep Learning. My recent works have focused on efficient dense video captioning with the help of reinforcement learning, restoration of images suffering from blur, low-resolution, and haze.
+##  Publications and Preprints
 
----
+- [Degradation Aware Approach to Image Restoration Using Knowledge Distillation (JSTSP).](https://ieeexplore.ieee.org/abstract/document/9288928)
+- [Spatially-attentive patch-hierarchical network for adaptive motion deblurring (CVPR20)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Suin_Spatially-Attentive_Patch-Hierarchical_Network_for_Adaptive_Motion_Deblurring_CVPR_2020_paper.pdf)
+- [Depth-guided dense dynamic filtering network for bokeh effect rendering (ICCVW19)](https://ieeexplore.ieee.org/abstract/document/9022538)
+- [An Efficient Framework for Dense Video Captioning (AAAI20)](https://ojs.aaai.org//index.php/AAAI/article/view/6881)
 
-## Updates 
-
-- (2019.11) Our paper "Spatially-Attentive Patch-Hierarchical Network for Adaptive Motion Deblurring" has been accepted at **[CVPR 2020](http://cvpr2020.thecvf.com/)** Conference.
-- I have been awarded **[Google Travel Grant](https://buildyourfuture.withgoogle.com/scholarships/google-travel-scholarships/#!?detail-content-tabby_activeEl=overview)** to present our paper at **[AAAI 2020](https://aaai.org/Conferences/AAAI-20/) Conference**, New York, USA.
-- (2019.11) Our paper "An efficient Framework for Dense Video Captioning" has been accepted at **[AAAI 2020](https://aaai.org/Conferences/AAAI-20/) Conference**.
-- (2019.11) Our team won the **runner up** prizes in **[ICCV-AIM 2019](http://www.vision.ee.ethz.ch/aim19/)** Bokeh Effect Challenge and Realistic Image Super-resolution Challenge.
-
-		
- - (2019.04) Our team has claimed **1st position** in **[CVPR-NTIRE 2019](http://www.vision.ee.ethz.ch/ntire19/)** Image Colorization Challenge. We are also among the finalists in Image Dehazing challenges of NTIRE 2019.
+ 
+ 
+##  Co-authored Workshop Proceedings
+- [Ntire 2020 challenge on image and video deblurring](https://openaccess.thecvf.com/content_CVPRW_2020/html/w31/Nah_NTIRE_2020_Challenge_on_Image_and_Video_Deblurring_CVPRW_2020_paper.html)
+- [AIM 2020 challenge on efficient super-resolution: Methods and results](https://arxiv.org/abs/2009.06943)
+- [AIM 2020: Scene relighting and illumination estimation challenge](https://arxiv.org/pdf/2009.12798)
+- [AIM 2020 challenge on rendering realistic bokeh](http://people.ee.ethz.ch/~timofter/publications/Ignatov-ECCVW-2020b.pdf)
+- [Ntire 2019 challenge on image colorization: Report](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Gu_NTIRE_2019_Challenge_on_Image_Colorization_Report_CVPRW_2019_paper.pdf)
+- [Ntire 2019 image dehazing challenge report](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Ancuti_NTIRE_2019_Image_Dehazing_Challenge_Report_CVPRW_2019_paper.pdf)
+- [Aim 2019 challenge on bokeh effect synthesis: Methods and results](https://ieeexplore.ieee.org/abstract/document/9022578/)
+- [AIM 2019 Challenge on Image Extreme Super-Resolution: Methods and Results](https://people.ee.ethz.ch/~timofter/publications/Gu-ICCVW-2019.pdf)
+- [Aim 2019 challenge on image demoireing: Methods and results](https://ieeexplore.ieee.org/abstract/document/9022366)
+- [Aim 2019 challenge on image extreme super-resolution: Methods and results](https://ieeexplore.ieee.org/abstract/document/9022627)
+- [Aim 2019 challenge on real-world image super-resolution: Methods and results](https://ieeexplore.ieee.org/abstract/document/9022354)
