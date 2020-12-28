@@ -1,10 +1,10 @@
 title: Maitreya Suin # your name (or website title) here
 logo: "/images/br_2.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  PhD Scholar, IIT Madras
-  #<br><br>
+  PhD Scholar (Computer Vision)
+  <br><br>
   #IIT Madras 
-  #<br><br>
+  <br><br>
   <a href="https://www.linkedin.com/in/maitreya-suin/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
