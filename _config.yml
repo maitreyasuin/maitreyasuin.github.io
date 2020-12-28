@@ -3,7 +3,7 @@ logo: "/images/br_2.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   PhD Scholar (Computer Vision) 
   <br><br>
-  <a href="https://www.linkedin.com/in/maitreya-suin/">LinkedIn</a>/<a href="https://scholar.google.com/citations?user=Yjf3OKcAAAAJ&hl=en">Google-Scholar</a>/<a href="mailto:maitreyasuin21@gmail.com">Mail</a>/<a href="maitreyasuin.github.io/files/CV_Maitreya_Suin.pdf">CV</a>
+  <a href="https://www.linkedin.com/in/maitreya-suin/">LinkedIn</a>/<a href="https://scholar.google.com/citations?user=Yjf3OKcAAAAJ&hl=en">Google-Scholar</a>/<a href="mailto:maitreyasuin21@gmail.com">Mail</a>/<a href="https://maitreyasuin.github.io/files/CV_Maitreya_Suin.pdf">CV</a>
   <br><br>
   <a href="https://maitreyasuin.github.io/pages/pubs"><strong>Publications</strong></a>
 theme: jekyll-theme-minimal
