@@ -4,8 +4,8 @@
 
 ### 2020
 - [Spatially-attentive patch-hierarchical network for adaptive motion deblurring (CVPR20)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Suin_Spatially-Attentive_Patch-Hierarchical_Network_for_Adaptive_Motion_Deblurring_CVPR_2020_paper.pdf)
-- [Depth-guided dense dynamic filtering network for bokeh effect rendering (ICCVW19)](https://ieeexplore.ieee.org/abstract/document/9022538)
 - [An Efficient Framework for Dense Video Captioning (AAAI20)](https://ojs.aaai.org//index.php/AAAI/article/view/6881)
+- [Depth-guided dense dynamic filtering network for bokeh effect rendering (ICCVW19)](https://ieeexplore.ieee.org/abstract/document/9022538)
 
  
  
