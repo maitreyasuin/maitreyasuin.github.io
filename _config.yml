@@ -7,11 +7,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/maitreya-suin/"><b><small>LinkedIn</small></b></a>
   <br>
-  <a href="https://scholar.google.com/citations?user=Yjf3OKcAAAAJ&hl=en"><small>Google-Scholar</small></a>
+  <a href="https://scholar.google.com/citations?user=Yjf3OKcAAAAJ&hl=en"><b><small>Google-Scholar</small></b></a>
   <br>
-  <a href="mailto:maitreyasuin21@gmail.com"><small>E-Mail</small></a>
+  <a href="mailto:maitreyasuin21@gmail.com"><b><small>E-Mail</small></b></a>
   <br>
-  <a href="https://maitreyasuin.github.io/files/CV_Maitreya_Suin.pdf"><small>CV</small></a>
+  <a href="https://maitreyasuin.github.io/files/CV_Maitreya_Suin.pdf"><b><small>CV</small></b></a>
   <br>
   
 theme: jekyll-theme-minimal
