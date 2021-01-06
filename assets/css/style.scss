@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 header {
-  margin: 0px 900px 0px -60px;
+  margin: 0px 900px 0px -50px;
   width:200px;
   float:left;
   position:fixed;
@@ -17,7 +17,7 @@ header {
 
 section {
   
-  width:600px;
+  width:640px;
   float:right;
   
   -webkit-font-smoothing:subpixel-antialiased;
