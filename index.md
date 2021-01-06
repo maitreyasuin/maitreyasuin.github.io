@@ -1,4 +1,4 @@
-I am a PhD student at **[Image Processing and Computer Vision Lab, IIT Madras](http://www.ee.iitm.ac.in/ipcvlab/)**. I received my Bachelors Degree in Electrical Engineering from **[Institute of Engineering and Management, Kolkata](http://iem.edu.in/)**.  My research lies at the intersection of Image Processing/Computer Vision and Deep Learning. My recent works have focused on efficient dense video captioning with the help of reinforcement learning, restoration of images suffering from blur, low-resolution, and haze, enhancement of videos.
+I am a PhD student at **[Image Processing and Computer Vision Lab, IIT Madras](http://www.ee.iitm.ac.in/ipcvlab/)**. I received my Bachelors Degree in Electrical Engineering from **[Institute of Engineering and Management, Kolkata](http://iem.edu.in/)**.  My research lies at the intersection of Image Processing/Computer Vision and Deep Learning. My recent works have focused on efficient dense video captioning with the help of reinforcement learning, restoration of images suffering from blur, low-resolution, and haze, enhancement of videos..
 
 ---
 
