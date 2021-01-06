@@ -37,6 +37,9 @@ body {
 
 
 
+
+
+
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
@@ -50,16 +53,7 @@ body {
     width:auto;
   }
 
-  header {
-    padding-right:320px;
-  }
 
-  section {
-    border:1px solid #e5e5e5;
-    border-width:1px 0;
-    padding:20px 0;
-    margin:0 0 20px;
-  }
 
   header a small {
     display:inline;
@@ -77,9 +71,7 @@ body {
     word-wrap:break-word;
   }
 
-  header {
-    padding:0;
-  }
+ 
 
   header ul, header p.view {
     position:static;
@@ -91,9 +83,7 @@ body {
 }
 
 @media print, screen and (max-width: 480px) {
-  body {
-    padding:15px;
-  }
+
 
   header ul {
     width:99%;
