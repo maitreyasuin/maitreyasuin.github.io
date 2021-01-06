@@ -17,6 +17,8 @@ I am a PhD student at **[Image Processing and Computer Vision Lab, IIT Madras](h
 		
  - (2019.04) Our team has claimed **1st position** in **[CVPR-NTIRE 2019](http://www.vision.ee.ethz.ch/ntire19/)** Image Colorization Challenge. We are also among the finalists in Image Dehazing challenges of NTIRE 2019.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmaitreyasuin.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
+
 
 ---
 
