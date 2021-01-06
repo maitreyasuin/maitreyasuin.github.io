@@ -20,4 +20,3 @@ I am a PhD student at **[Image Processing and Computer Vision Lab, IIT Madras](h
 
 ---
 
-
