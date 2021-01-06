@@ -48,25 +48,25 @@ body {
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
-    width:auto;
-    margin:0;
+    //width:auto;
+    //margin:0;
   }
 
   header, section, footer {
     float:none;
     position:static;
-    width:auto;
+    //width:auto;
   }
 
   header {
-    padding-right:320px;
+    //padding-right:320px;
   }
 
   section {
-    border:1px solid #e5e5e5;
+    //border:1px solid #e5e5e5;
     border-width:1px 0;
-    padding:20px 0;
-    margin:0 0 20px;
+    //padding:20px 0;
+    //margin:0 0 20px;
   }
 
   header a small {
@@ -86,7 +86,7 @@ body {
   }
 
   header {
-    padding:0;
+    //padding:0;
   }
 
   header ul, header p.view {
