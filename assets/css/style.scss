@@ -1,6 +1,28 @@
 ---
 ---
+
 @import "{{ site.theme }}";
+
+header {
+  margin: 0px 900px 0px -50px;
+  width:200px;
+  float:left;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
+header {
+    padding-right:110px;
+  }
+
+section {
+  
+  width:640px;
+  float:right;
+  
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
 body {
   background-color: #fff;
   margin: 20px 0px 10px 0px;
