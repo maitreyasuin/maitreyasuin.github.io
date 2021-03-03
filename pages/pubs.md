@@ -1,7 +1,7 @@
 ##  Publications and Preprints
 ### 2021
 - [Degradation Aware Approach to Image Restoration Using Knowledge Distillation (JSTSP).](https://ieeexplore.ieee.org/abstract/document/9288928)
-- [Gated Spatio-Temporal Attention-Guided Video Deblurring]()
+- [Gated Spatio-Temporal Attention-Guided Video Deblurring (CVPR21)]()
 
 ### 2020
 - [Spatially-attentive patch-hierarchical network for adaptive motion deblurring (CVPR20)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Suin_Spatially-Attentive_Patch-Hierarchical_Network_for_Adaptive_Motion_Deblurring_CVPR_2020_paper.pdf)
