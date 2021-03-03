@@ -3,6 +3,7 @@ I am a PhD student at **[Image Processing and Computer Vision Lab, IIT Madras](h
 ---
 
 ## Updates 
+-- (2020.12) Our paper "Gated Spatio-Temporal Attention-Guided Video Deblurring" has been accepted at **[CVPR 2021](http://cvpr2021.thecvf.com/)** Conference.
 
 - (2020.12) Our paper "Degradation Aware Approach to Image Restoration Using Knowledge Distillation" has been accepted at IEEE Journal of Selected Topics in Signal Processing **([JSTSP](https://signalprocessingsociety.org/publications-resources/ieee-journal-selected-topics-signal-processing/about-jstsp))**.
 
