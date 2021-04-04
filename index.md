@@ -1,4 +1,4 @@
-I am a PhD student at **[Image Processing and Computer Vision Lab, IIT Madras](http://www.ee.iitm.ac.in/ipcvlab/)**. I received my Bachelors Degree in Electronics and Communications Engineering from **[Institute of Engineering and Management, Kolkata](http://iem.edu.in/)**.  My research lies at the intersection of Image Processing/Computer Vision and Deep Learning. My recent works have focused on efficient dense video captioning with the help of reinforcement learning, restoration of images suffering from blur, low-resolution, and haze, enhancement of videos.
+I am a PhD student at **[Image Processing and Computer Vision Lab, IIT Madras](http://www.ee.iitm.ac.in/ipcvlab/)**. I received my Bachelors Degree in Electronics and Communications Engineering from **[Institute of Engineering and Management, Kolkata](http://iem.edu.in/)**. My research lies at the intersection of Computer Vision, Deep Learning and Deep Reinforcement Learning. My recent works have focused on efficient dense video captioning with the help of reinforcement learning and transformer, restoration of images suffering from blur, low-resolution, rain and haze, video enhancement using efficient attention modules. 
 
 ---
 
@@ -6,6 +6,7 @@ I am a PhD student at **[Image Processing and Computer Vision Lab, IIT Madras](h
 - (2021.02) Our paper "Gated Spatio-Temporal Attention-Guided Video Deblurring" has been accepted at **[CVPR 2021](http://cvpr2021.thecvf.com/)** Conference.
 
 - (2020.12) Our paper "Degradation Aware Approach to Image Restoration Using Knowledge Distillation" has been accepted at IEEE Journal of Selected Topics in Signal Processing **([IEEE-JSTSP](https://signalprocessingsociety.org/publications-resources/ieee-journal-selected-topics-signal-processing/about-jstsp))**.
+_Check out the [article](https://alumni.iitm.ac.in/tech-talk/clean-up-neural-networks-show-the-way-to-preserve-photographs/) in IITM Tech Talk._
 
 - (2019.11) Our paper "Spatially-Attentive Patch-Hierarchical Network for Adaptive Motion Deblurring" has been accepted at **[CVPR 2020](http://cvpr2020.thecvf.com/)** Conference.
 
