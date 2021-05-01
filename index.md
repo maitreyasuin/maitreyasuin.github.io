@@ -6,7 +6,7 @@ I am a PhD student at **[Image Processing and Computer Vision Lab, IIT Madras](h
 - (2021.02) Our paper "Gated Spatio-Temporal Attention-Guided Video Deblurring" has been accepted at **[CVPR 2021](http://cvpr2021.thecvf.com/)** Conference.
 
 - (2020.12) Our paper "Degradation Aware Approach to Image Restoration Using Knowledge Distillation" has been accepted at IEEE Journal of Selected Topics in Signal Processing **([IEEE-JSTSP](https://signalprocessingsociety.org/publications-resources/ieee-journal-selected-topics-signal-processing/about-jstsp))**.\
-_Check out the [article](https://alumni.iitm.ac.in/tech-talk/clean-up-neural-networks-show-the-way-to-preserve-photographs/) in IITM Tech Talk._
+_Check out the articles in [@EduMinOfIndia](https://twitter.com/EduMinOfIndia/status/1387693652915277824?s=20), [IITM Tech Talk](https://tech-talk.iitm.ac.in/clean-up-neural-networks-show-the-way-to-preserve-photographs/)._
 
 - (2020.10) Our team from **[IPCV Lab, IITM](http://www.ee.iitm.ac.in/ipcvlab/)** developed Mixed-reality segment for the **[2020 Virtual Convocation of IIT Madras](https://fo-fo.facebook.com/ReachIITM/videos/643343663027471/)**.
 
