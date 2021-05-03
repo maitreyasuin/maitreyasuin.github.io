@@ -15,7 +15,7 @@
 ##  Co-authored Workshop Proceedings
 ### 2021
 - [NTIRE 2021 Depth Guided Image Relighting Challenge](https://arxiv.org/abs/2104.13365)
-- [NTIRE 2021 Challenge on Image Deblurring]
+- [NTIRE 2021 Challenge on Image Deblurring]()
 ### 2020
 - [Ntire 2020 challenge on image and video deblurring](https://openaccess.thecvf.com/content_CVPRW_2020/html/w31/Nah_NTIRE_2020_Challenge_on_Image_and_Video_Deblurring_CVPRW_2020_paper.html)
 - [AIM 2020 challenge on efficient super-resolution: Methods and results](https://arxiv.org/abs/2009.06943)
