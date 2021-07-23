@@ -3,6 +3,8 @@ I am a PhD student at **[Image Processing and Computer Vision Lab, IIT Madras](h
 ---
 
 ## Updates 
+- (2021.07) Our paper "Distillation-guided Image Inpainting" has been accepted at **[ICCV 2021](http://iccv2021.thecvf.com/)** Conference.
+- 
 - (2021.02) Our paper "Gated Spatio-Temporal Attention-Guided Video Deblurring" has been accepted at **[CVPR 2021](http://cvpr2021.thecvf.com/)** Conference.
 
 - (2020.12) Our paper "Degradation Aware Approach to Image Restoration Using Knowledge Distillation" has been accepted at IEEE Journal of Selected Topics in Signal Processing **([IEEE-JSTSP](https://signalprocessingsociety.org/publications-resources/ieee-journal-selected-topics-signal-processing/about-jstsp))**.\
