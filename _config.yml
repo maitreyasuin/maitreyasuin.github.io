@@ -14,7 +14,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://maitreyasuin.github.io/files/CV_Maitreya_Suin.pdf"><b><small>CV</small></b></a>
   <br>
   
-#theme: jekyll-theme-minimal
-theme: bay_jekyll_theme
+theme: jekyll-theme-minimal
 # theme: null
 google_analytics: UA-186692181-1 # your Google Analytics tracking ID here
