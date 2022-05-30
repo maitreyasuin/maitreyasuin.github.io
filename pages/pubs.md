@@ -11,7 +11,7 @@
 </colgroup>
 <tbody>
 <tr>
-<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/iccv_inp.gif?raw=true" width="256" height="144"></td>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/iccv_inp.gif?raw=true" width="213" height="120"></td>
 <td markdown="span"> Image inpainting is a highly ill-posed problem, and existing works often create distorted structures or blurry inconsistent textures. We argue that the problem is rooted in the encoder layers’ ineffectiveness in building a complete and faithful embedding of the missing regions from scratch. We propose a distillation-based approach for inpainting, where we provide direct feature-level supervision while training. We deploy cross and self-distillation techniques and design a dedicated completion-block in encoder. Next, we demonstrate how an inpainting network’s attention module can improve by leveraging a distillation-based attention transfer technique. We conduct evaluations on multiple datasets to validate our method. </td>
 </tr>
 </tbody>
