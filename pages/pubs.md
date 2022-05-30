@@ -2,7 +2,7 @@
 ### 2021
 #### [Distillation-guided Image Inpainting (ICCV21)](https://openaccess.thecvf.com/content/ICCV2021/papers/Suin_Distillation-Guided_Image_Inpainting_ICCV_2021_paper.pdf)
 
-
+**Maitreya Suin**, Kuldeep Purohit and A. N. Rajagopalan.
 
 <table>
 <colgroup>
@@ -19,7 +19,7 @@
 
 #### [Spatially-Adaptive Image Restoration using Distortion-Guided Networks (ICCV21)](https://openaccess.thecvf.com/content/ICCV2021/papers/Purohit_Spatially-Adaptive_Image_Restoration_Using_Distortion-Guided_Networks_ICCV_2021_paper.pdf)
 
-
+Kuldeep Purohit, **Maitreya Suin**, A. N. Rajagopalan and Vishnu Naresh Boddeti.
 
 <table>
 <colgroup>
@@ -37,6 +37,8 @@
  
 
 #### [Gated Spatio-Temporal Attention-Guided Video Deblurring (CVPR21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Suin_Gated_Spatio-Temporal_Attention-Guided_Video_Deblurring_CVPR_2021_paper.pdf)
+
+**Maitreya Suin** and A. N. Rajagopalan.
 
 <table>
 <colgroup>
@@ -56,6 +58,8 @@
 ### 2020
 #### [Spatially-attentive patch-hierarchical network for adaptive motion deblurring (CVPR20)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Suin_Spatially-Attentive_Patch-Hierarchical_Network_for_Adaptive_Motion_Deblurring_CVPR_2020_paper.pdf)
 
+**Maitreya Suin**, Kuldeep Purohit and A. N. Rajagopalan.
+
 <table>
 <colgroup>
 <col width="25%" />
@@ -73,6 +77,8 @@ across different spatial locations and process each test image adaptively. We de
 
 #### [Degradation Aware Approach to Image Restoration Using Knowledge Distillation (IEEE-JSTSP).](https://ieeexplore.ieee.org/abstract/document/9288928)
 
+**Maitreya Suin**, Kuldeep Purohit and A. N. Rajagopalan.
+
 <table>
 <colgroup>
 <col width="25%" />
@@ -88,6 +94,8 @@ across different spatial locations and process each test image adaptively. We de
 </table>
 
 #### [An Efficient Framework for Dense Video Captioning (AAAI20 - Oral)](https://ojs.aaai.org//index.php/AAAI/article/view/6881)
+
+**Maitreya Suin** and A. N. Rajagopalan.
 
 <table>
 <colgroup>
@@ -105,6 +113,8 @@ across different spatial locations and process each test image adaptively. We de
 
 ### 2019
 #### [Depth-guided dense dynamic filtering network for bokeh effect rendering (ICCVW19)](https://ieeexplore.ieee.org/abstract/document/9022538)
+
+Kuldeep Purohit, **Maitreya Suin**, Praveen Kandula and A. N. Rajagopalan.
 
 <table>
 <colgroup>
