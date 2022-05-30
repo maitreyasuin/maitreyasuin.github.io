@@ -17,6 +17,23 @@
 </tbody>
 </table>
 
+#### [Spatially-Adaptive Image Restoration using Distortion-Guided Networks (ICCV21)](https://openaccess.thecvf.com/content/ICCV2021/papers/Purohit_Spatially-Adaptive_Image_Restoration_Using_Distortion-Guided_Networks_ICCV_2021_paper.pdf)
+
+
+
+<table>
+<colgroup>
+<col width="25%" />
+<col width="85%" />
+</colgroup>
+<tbody>
+<tr>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/iccv_rest.gif?raw=true" width="182" height="102"></td>
+<td markdown="span"> We propose SPAIR, a network design that harnesses distortion-localization information and dynamically adjusts computation to difficult regions in the image. SPAIR comprises of two components, (1) a localization network that identifies degraded pixels, and (2) a restoration network that exploits knowledge from the localization network in filter and feature domain to selectively and adaptively restore degraded pixels. Our architecture is agnostic to physical formation model and generalizes across several types of spatially-varying degradations. We demonstrate the efficacy of SPAIR individually on four restoration tasks.
+ </td>
+</tr>
+</tbody>
+</table>
  
 
 #### [Gated Spatio-Temporal Attention-Guided Video Deblurring (CVPR21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Suin_Gated_Spatio-Temporal_Attention-Guided_Video_Deblurring_CVPR_2021_paper.pdf)
@@ -36,15 +53,73 @@
 </table>
 
 
-- [Degradation Aware Approach to Image Restoration Using Knowledge Distillation (IEEE-JSTSP).](https://ieeexplore.ieee.org/abstract/document/9288928)
+#### [Degradation Aware Approach to Image Restoration Using Knowledge Distillation (IEEE-JSTSP).](https://ieeexplore.ieee.org/abstract/document/9288928)
+
+<table>
+<colgroup>
+<col width="25%" />
+<col width="85%" />
+</colgroup>
+<tbody>
+<tr>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/jstsp.gif?raw=true" width="182" height="102"></td>
+<td markdown="span"> We present a new approach suitable for handling the image-specific and spatially-varying nature of degradation in images affected by practically occurring artifacts such as rain-streaks, haze, raindrops and motion blur. We decompose the restoration task into two stages of degradation localization and degraded region-guided restoration, unlike existing methods which directly learn a mapping between the degraded and clean images. We demonstrate that the model trained for this auxiliary task contains vital region knowledge, which can be exploited to guide the restoration network's training using knowledge distillation technique. Further, we propose mask-guided modules to focus on restoring the degraded regions. We conduct an extensive evaluation on multiple datasets corresponding to four different restoration tasks to validate our method. 
+ </td>
+</tr>
+</tbody>
+</table>
 
 ### 2020
-- [Spatially-attentive patch-hierarchical network for adaptive motion deblurring (CVPR20)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Suin_Spatially-Attentive_Patch-Hierarchical_Network_for_Adaptive_Motion_Deblurring_CVPR_2020_paper.pdf)
-- [An Efficient Framework for Dense Video Captioning (AAAI20 - Oral)](https://ojs.aaai.org//index.php/AAAI/article/view/6881)
+#### [Spatially-attentive patch-hierarchical network for adaptive motion deblurring (CVPR20)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Suin_Spatially-Attentive_Patch-Hierarchical_Network_for_Adaptive_Motion_Deblurring_CVPR_2020_paper.pdf)
+
+<table>
+<colgroup>
+<col width="25%" />
+<col width="85%" />
+</colgroup>
+<tbody>
+<tr>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/jstsp.gif?raw=true" width="182" height="102"></td>
+<td markdown="span"> We propose an efficient pixel adaptive and feature attentive design for handling large blur variations
+across different spatial locations and process each test image adaptively. We design a content-aware global-local filtering module that significantly improves performance by considering not only global dependencies but also by dynamically exploiting neighboring pixel information. We use a patch-hierarchical attentive architecture composed of the above module that implicitly discovers the spatial variations in the blur present in the input image and in turn, performs local and global modulation of intermediate features. 
+ </td>
+</tr>
+</tbody>
+</table>
+
+#### [An Efficient Framework for Dense Video Captioning (AAAI20 - Oral)](https://ojs.aaai.org//index.php/AAAI/article/view/6881)
+
+<table>
+<colgroup>
+<col width="25%" />
+<col width="85%" />
+</colgroup>
+<tbody>
+<tr>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/aaai.gif?raw=true" width="182" height="102"></td>
+<td markdown="span"> We focus on the task of generating a dense description of temporally untrimmed videos and aim to significantly reduce the computational cost by processing fewer frames while maintaining accuracy. Existing video captioning methods sample frames with a predefined frequency over the entire video or use all the frames. Instead, we propose a deep reinforcement-based approach which enables an agent to describe multiple events in a video by watching a portion of the frames. The agent needs to watch more frames when it is processing an informative part of the video, and skip frames when there is redundancy. Such an efficient frame selection simplifies the event proposal task considerably. This has the added effect of reducing the occurrence of unwanted proposals. We also leverage the idea of knowledge distillation to improve the accuracy. 
+ </td>
+</tr>
+</tbody>
+</table>
 
 ### 2019
-- [Depth-guided dense dynamic filtering network for bokeh effect rendering (ICCVW19)](https://ieeexplore.ieee.org/abstract/document/9022538)
+#### [Depth-guided dense dynamic filtering network for bokeh effect rendering (ICCVW19)](https://ieeexplore.ieee.org/abstract/document/9022538)
 
+<table>
+<colgroup>
+<col width="25%" />
+<col width="85%" />
+</colgroup>
+<tbody>
+<tr>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/iccvw.gif?raw=true" width="182" height="102"></td>
+<td markdown="span"> We present a learning-based method for rendering such synthetic depth-of-field effect on input bokeh-free images acquired using ordinary monocular cameras. The proposed network is composed of an efficient densely connected encoder-decoder backbone structure with a pyramid pooling module. Our network leverages the task-specific efficacy of joint intensity estimation and dynamic filter synthesis for the spatially-aware blurring process. Since the rendering task requires distinguishing between large foreground and background regions and their relative depth, our network is further guided by pre-trained salient-region segmentation and
+depth-estimation modules. Along with extensive ablation analysis and visualizations to validate its components, the effectiveness of the proposed network is also demonstrated by achieving the second-highest score in the AIM 2019 Bokeh Effect challenge: fidelity track.
+ </td>
+</tr>
+</tbody>
+</table>
  
  
 ##  Co-authored Workshop Proceedings
