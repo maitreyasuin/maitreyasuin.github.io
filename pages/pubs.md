@@ -2,7 +2,7 @@
 ### 2021
 [Distillation-guided Image Inpainting (ICCV21)]()
 
-<img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/iccv_inp.gif" width="256" height="144"></td>
+<img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/iccv_inp.gif?raw=true" width="256" height="144">
 
 
 
