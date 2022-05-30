@@ -1,6 +1,14 @@
 ##  Publications and Preprints
 ### 2021
-- ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) [Distillation-guided Image Inpainting (ICCV21)]()
+- 
+\begin{minipage}{1.0\textwidth}
+\centering
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+\end{minipage}
+
+\begin{minipage}{1.0\textwidth}
+\centering
+[Distillation-guided Image Inpainting (ICCV21)]()
 Image inpainting methods have shown significant improvements by using deep neural networks recently. However, many of these techniques often create distorted structures or blurry inconsistent textures. The problem is rooted
 in the encoder layers’ ineffectiveness in building a complete and faithful embedding of the missing regions from
 scratch. Existing solutions like course-to-fine, progressive
@@ -16,6 +24,8 @@ evaluations on multiple datasets to validate our method.
 Along with achieving significant improvements over previous SOTA methods, the proposed approach’s effectiveness
 is also demonstrated through its ability to improve existing
 inpainting works.
+\end{minipage}
+ 
 
 - [Gated Spatio-Temporal Attention-Guided Video Deblurring (CVPR21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Suin_Gated_Spatio-Temporal_Attention-Guided_Video_Deblurring_CVPR_2021_paper.pdf)
 - [Degradation Aware Approach to Image Restoration Using Knowledge Distillation (IEEE-JSTSP).](https://ieeexplore.ieee.org/abstract/document/9288928)
