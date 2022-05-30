@@ -28,7 +28,7 @@
 </colgroup>
 <tbody>
 <tr>
-<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/iccv_rest.gif?raw=true" width="182" height="102"></td>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/iccv21_rest.gif?raw=true" width="182" height="102"></td>
 <td markdown="span"> We propose SPAIR, a network design that harnesses distortion-localization information and dynamically adjusts computation to difficult regions in the image. SPAIR comprises of two components, (1) a localization network that identifies degraded pixels, and (2) a restoration network that exploits knowledge from the localization network in filter and feature domain to selectively and adaptively restore degraded pixels. Our architecture is agnostic to physical formation model and generalizes across several types of spatially-varying degradations. We demonstrate the efficacy of SPAIR individually on four restoration tasks.
  </td>
 </tr>
@@ -53,22 +53,6 @@
 </table>
 
 
-#### [Degradation Aware Approach to Image Restoration Using Knowledge Distillation (IEEE-JSTSP).](https://ieeexplore.ieee.org/abstract/document/9288928)
-
-<table>
-<colgroup>
-<col width="25%" />
-<col width="85%" />
-</colgroup>
-<tbody>
-<tr>
-<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/jstsp.gif?raw=true" width="182" height="102"></td>
-<td markdown="span"> We present a new approach suitable for handling the image-specific and spatially-varying nature of degradation in images affected by practically occurring artifacts such as rain-streaks, haze, raindrops and motion blur. We decompose the restoration task into two stages of degradation localization and degraded region-guided restoration, unlike existing methods which directly learn a mapping between the degraded and clean images. We demonstrate that the model trained for this auxiliary task contains vital region knowledge, which can be exploited to guide the restoration network's training using knowledge distillation technique. Further, we propose mask-guided modules to focus on restoring the degraded regions. We conduct an extensive evaluation on multiple datasets corresponding to four different restoration tasks to validate our method. 
- </td>
-</tr>
-</tbody>
-</table>
-
 ### 2020
 #### [Spatially-attentive patch-hierarchical network for adaptive motion deblurring (CVPR20)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Suin_Spatially-Attentive_Patch-Hierarchical_Network_for_Adaptive_Motion_Deblurring_CVPR_2020_paper.pdf)
 
@@ -82,6 +66,22 @@
 <td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/jstsp.gif?raw=true" width="182" height="102"></td>
 <td markdown="span"> We propose an efficient pixel adaptive and feature attentive design for handling large blur variations
 across different spatial locations and process each test image adaptively. We design a content-aware global-local filtering module that significantly improves performance by considering not only global dependencies but also by dynamically exploiting neighboring pixel information. We use a patch-hierarchical attentive architecture composed of the above module that implicitly discovers the spatial variations in the blur present in the input image and in turn, performs local and global modulation of intermediate features. 
+ </td>
+</tr>
+</tbody>
+</table>
+
+#### [Degradation Aware Approach to Image Restoration Using Knowledge Distillation (IEEE-JSTSP).](https://ieeexplore.ieee.org/abstract/document/9288928)
+
+<table>
+<colgroup>
+<col width="25%" />
+<col width="85%" />
+</colgroup>
+<tbody>
+<tr>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/jstsp.gif?raw=true" width="182" height="102"></td>
+<td markdown="span"> We present a new approach suitable for handling the image-specific and spatially-varying nature of degradation in images affected by practically occurring artifacts such as rain-streaks, haze, raindrops and motion blur. We decompose the restoration task into two stages of degradation localization and degraded region-guided restoration, unlike existing methods which directly learn a mapping between the degraded and clean images. We demonstrate that the model trained for this auxiliary task contains vital region knowledge, which can be exploited to guide the restoration network's training using knowledge distillation technique. Further, we propose mask-guided modules to focus on restoring the degraded regions. We conduct an extensive evaluation on multiple datasets corresponding to four different restoration tasks to validate our method. 
  </td>
 </tr>
 </tbody>
