@@ -96,7 +96,7 @@ across different spatial locations and process each test image adaptively. We de
 </colgroup>
 <tbody>
 <tr>
-<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/aaai.gif?raw=true" width="182" height="102"></td>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/aaai.png?raw=true" width="182" height="102"></td>
 <td markdown="span"> We focus on the task of generating a dense description of temporally untrimmed videos and aim to significantly reduce the computational cost by processing fewer frames while maintaining accuracy. Existing video captioning methods sample frames with a predefined frequency over the entire video or use all the frames. Instead, we propose a deep reinforcement-based approach which enables an agent to describe multiple events in a video by watching a portion of the frames. The agent needs to watch more frames when it is processing an informative part of the video, and skip frames when there is redundancy. Such an efficient frame selection simplifies the event proposal task considerably. This has the added effect of reducing the occurrence of unwanted proposals. We also leverage the idea of knowledge distillation to improve the accuracy. 
  </td>
 </tr>
@@ -113,7 +113,7 @@ across different spatial locations and process each test image adaptively. We de
 </colgroup>
 <tbody>
 <tr>
-<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/iccvw.gif?raw=true" width="182" height="102"></td>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/iccvw.png?raw=true" width="182" height="102"></td>
 <td markdown="span"> We present a learning-based method for rendering such synthetic depth-of-field effect on input bokeh-free images acquired using ordinary monocular cameras. The proposed network is composed of an efficient densely connected encoder-decoder backbone structure with a pyramid pooling module. Our network leverages the task-specific efficacy of joint intensity estimation and dynamic filter synthesis for the spatially-aware blurring process. Since the rendering task requires distinguishing between large foreground and background regions and their relative depth, our network is further guided by pre-trained salient-region segmentation and
 depth-estimation modules. Along with extensive ablation analysis and visualizations to validate its components, the effectiveness of the proposed network is also demonstrated by achieving the second-highest score in the AIM 2019 Bokeh Effect challenge: fidelity track.
  </td>
