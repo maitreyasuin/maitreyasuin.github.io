@@ -1,33 +1,28 @@
 ##  Publications and Preprints
 ### 2021
-- 
-\begin{center}
-\begin{tabular}{ c c c }
- cell1 & cell2 & cell3 \\ 
- cell4 & cell5 & cell6 \\  
- cell7 & cell8 & cell9    
-\end{tabular}
-\end{center}
-
-\begin{minipage}{1.0\textwidth}
-\centering
 [Distillation-guided Image Inpainting (ICCV21)]()
-Image inpainting methods have shown significant improvements by using deep neural networks recently. However, many of these techniques often create distorted structures or blurry inconsistent textures. The problem is rooted
-in the encoder layers’ ineffectiveness in building a complete and faithful embedding of the missing regions from
-scratch. Existing solutions like course-to-fine, progressive
-refinement, structural guidance, etc. suffer from huge computational overheads owing to multiple generator networks,
-limited ability of handcrafted features, and sub-optimal utilization of the information present in the ground truth. We
-propose a distillation-based approach for inpainting, where
-we provide direct feature level supervision while training.
-We deploy cross and self-distillation techniques and design a dedicated completion-block in encoder to produce
-more accurate encoding of the holes. Next, we demonstrate
-how an inpainting network’s attention module can improve
-by leveraging a distillation-based attention transfer technique and further enhance coherence by using a pixeladaptive global-local feature fusion. We conduct extensive
-evaluations on multiple datasets to validate our method.
-Along with achieving significant improvements over previous SOTA methods, the proposed approach’s effectiveness
-is also demonstrated through its ability to improve existing
-inpainting works.
-\end{minipage}
+
+<table>
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/iccv_inp.gif" width="256" height="144"></td>
+<td markdown="span">Image inpainting methods have shown significant improvements by using deep neural networks recently. However, many of these techniques often create distorted structures or blurry inconsistent textures. The problem is rooted in the encoder layers’ ineffectiveness in building a complete and faithful embedding of the missing regions from scratch. Existing solutions like course-to-fine, progressive refinement, structural guidance, etc. suffer from huge computational overheads owing to multiple generator networks, limited ability of handcrafted features, and sub-optimal utilization of the information present in the ground truth. We propose a distillation-based approach for inpainting, where we provide direct feature level supervision while training. We deploy cross and self-distillation techniques and design a dedicated completion-block in encoder to produce more accurate encoding of the holes. Next, we demonstrate how an inpainting network’s attention module can improve by leveraging a distillation-based attention transfer technique and further enhance coherence by using a pixeladaptive global-local feature fusion. We conduct extensive evaluations on multiple datasets to validate our method. Along with achieving significant improvements over previous SOTA methods, the proposed approach’s effectiveness is also demonstrated through its ability to improve existing inpainting works.</td>
+</tbody>
+</table>
+ 
+
+
+
  
 
 - [Gated Spatio-Temporal Attention-Guided Video Deblurring (CVPR21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Suin_Gated_Spatio-Temporal_Attention-Guided_Video_Deblurring_CVPR_2021_paper.pdf)
