@@ -1,6 +1,6 @@
 ##  Publications and Preprints
 ### 2021
-#### [Distillation-guided Image Inpainting (ICCV21)]()
+#### [Distillation-guided Image Inpainting (ICCV21)](https://openaccess.thecvf.com/content/ICCV2021/papers/Suin_Distillation-Guided_Image_Inpainting_ICCV_2021_paper.pdf)
 
 
 
@@ -19,7 +19,23 @@
 
  
 
-- [Gated Spatio-Temporal Attention-Guided Video Deblurring (CVPR21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Suin_Gated_Spatio-Temporal_Attention-Guided_Video_Deblurring_CVPR_2021_paper.pdf)
+#### [Gated Spatio-Temporal Attention-Guided Video Deblurring (CVPR21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Suin_Gated_Spatio-Temporal_Attention-Guided_Video_Deblurring_CVPR_2021_paper.pdf)
+
+<table>
+<colgroup>
+<col width="25%" />
+<col width="85%" />
+</colgroup>
+<tbody>
+<tr>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/cvpr21.gif?raw=true" width="182" height="102"></td>
+<td markdown="span"> Most of the existing video deblurring works depend on implicit or explicit alignment for temporal fusion, which either increases the computational cost or results in suboptimal performance due to misalignment. We investigate two key factors: how to fuse spatio-temporal information and from where to collect it. We propose a factorized gated spatio-temporal attention module to perform non-local operations across space and time to fully utilize the available information without depending on alignment. It shows superior performance compared to existing non-local fusion techniques while being considerably more efficient. To complement the attention module, we propose a reinforcement learning-based framework for selecting keyframes from the neighborhood with the most complementary and useful information.
+ </td>
+</tr>
+</tbody>
+</table>
+
+
 - [Degradation Aware Approach to Image Restoration Using Knowledge Distillation (IEEE-JSTSP).](https://ieeexplore.ieee.org/abstract/document/9288928)
 
 ### 2020
