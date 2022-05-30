@@ -63,7 +63,7 @@
 </colgroup>
 <tbody>
 <tr>
-<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/jstsp.gif?raw=true" width="182" height="102"></td>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/cvpr20.gif?raw=true" width="182" height="102"></td>
 <td markdown="span"> We propose an efficient pixel adaptive and feature attentive design for handling large blur variations
 across different spatial locations and process each test image adaptively. We design a content-aware global-local filtering module that significantly improves performance by considering not only global dependencies but also by dynamically exploiting neighboring pixel information. We use a patch-hierarchical attentive architecture composed of the above module that implicitly discovers the spatial variations in the blur present in the input image and in turn, performs local and global modulation of intermediate features. 
  </td>
