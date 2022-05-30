@@ -9,12 +9,6 @@
 <col width="30%" />
 <col width="70%" />
 </colgroup>
-<thead>
-<tr class="header">
-<th></th>
-<th></th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/iccv_inp.gif?raw=true" width="256" height="144"></td>
