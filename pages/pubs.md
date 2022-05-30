@@ -6,8 +6,8 @@
 
 <table>
 <colgroup>
-<col width="20%" />
-<col width="80%" />
+<col width="25%" />
+<col width="85%" />
 </colgroup>
 <tbody>
 <tr>
