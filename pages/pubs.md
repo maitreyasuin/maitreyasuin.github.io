@@ -1,7 +1,22 @@
 ##  Publications and Preprints
 ### 2021
-- [Distillation-guided Image Inpainting (ICCV21)]()
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+- ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) [Distillation-guided Image Inpainting (ICCV21)]()
+Image inpainting methods have shown significant improvements by using deep neural networks recently. However, many of these techniques often create distorted structures or blurry inconsistent textures. The problem is rooted
+in the encoder layers’ ineffectiveness in building a complete and faithful embedding of the missing regions from
+scratch. Existing solutions like course-to-fine, progressive
+refinement, structural guidance, etc. suffer from huge computational overheads owing to multiple generator networks,
+limited ability of handcrafted features, and sub-optimal utilization of the information present in the ground truth. We
+propose a distillation-based approach for inpainting, where
+we provide direct feature level supervision while training.
+We deploy cross and self-distillation techniques and design a dedicated completion-block in encoder to produce
+more accurate encoding of the holes. Next, we demonstrate
+how an inpainting network’s attention module can improve
+by leveraging a distillation-based attention transfer technique and further enhance coherence by using a pixeladaptive global-local feature fusion. We conduct extensive
+evaluations on multiple datasets to validate our method.
+Along with achieving significant improvements over previous SOTA methods, the proposed approach’s effectiveness
+is also demonstrated through its ability to improve existing
+inpainting works.
+
 - [Gated Spatio-Temporal Attention-Guided Video Deblurring (CVPR21)](https://openaccess.thecvf.com/content/CVPR2021/papers/Suin_Gated_Spatio-Temporal_Attention-Guided_Video_Deblurring_CVPR_2021_paper.pdf)
 - [Degradation Aware Approach to Image Restoration Using Knowledge Distillation (IEEE-JSTSP).](https://ieeexplore.ieee.org/abstract/document/9288928)
 
