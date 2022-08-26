@@ -5,6 +5,7 @@ I am a final-year PhD scholar at **[Image Processing and Computer Vision Lab, II
 ## Updates 
 
 - (2022.08) Our paper "Hybrid Transformer based Feature Fusion for Self-Supervised Monocular Depth Estimation" has been accepted at **[AIM](https://data.vision.ee.ethz.ch/cvl/aim22/)**, **[ECCV 2022](https://eccv2022.ecva.net/)**.
+
 - (2021.07) Our paper "Distillation-guided Image Inpainting" has been accepted at **[ICCV 2021](http://iccv2021.thecvf.com/)** Conference.
 
 - (2021.02) Our paper "Gated Spatio-Temporal Attention-Guided Video Deblurring" has been accepted at **[CVPR 2021](http://cvpr2021.thecvf.com/)** Conference.
