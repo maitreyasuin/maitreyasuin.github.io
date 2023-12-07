@@ -3,6 +3,13 @@ I am a postdoctoral researcher in the **[AIEM Lab, Johns Hopkins University](htt
 ---
 
 ## Updates 
+- (2023.11) Our paper "Diffuse and Restore: A Region-Adaptive Diffusion Model for Identity-Preserving Blind
+Face Restoration" has been accepted at Winter Conference on Applications of Computer Vision, 2024 **([WACV](https://wacv2024.thecvf.com/))**.
+
+
+- (2023.09) Our paper "ATDetect: Face Detection and Keypoint Extraction at Range and Altitude" has been accepted at IEEE International Joint Conference on Biometrics, 2023 **([IJCB]((https://ijcb2023.ieee-biometrics.org/)))**.
+
+
 - (2023.01) Our paper "Illumination-adaptive unpaired low-light enhancement" has been accepted at IEEE Transactions on Circuits and Systems for Video Technology **([IEEE-TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76))**.
 
 - (2022.08) Our paper "Hybrid Transformer based Feature Fusion for Self-Supervised Monocular Depth Estimation" has been accepted at **[AIM](https://data.vision.ee.ethz.ch/cvl/aim22/)**, **[ECCV 2022](https://eccv2022.ecva.net/)**.
