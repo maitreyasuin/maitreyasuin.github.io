@@ -18,6 +18,46 @@ diffusion-based restoration models. </td>
 </tbody>
 </table>
 
+
+### 2023
+#### [DIFFNAT: Improving Diffusion Image Quality Using Natural Image Statistics (Arxiv-Preprint)](https://arxiv.org/pdf/2311.09753.pdf)
+
+Aniket Roy, **Maiterya Suin**, Anshul Shah, Ketul Shah, Jiang Liu, Rama Chellappa
+
+<table>
+<colgroup>
+<col width="25%" />
+<col width="85%" />
+</colgroup>
+<tbody>
+<tr>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/diffnat.png?raw=true" width="182" height="102"></td>
+<td markdown="span"> We propose a generic “naturalness” preserving loss function, viz., kurtosis concentration (KC) loss, which can be readily applied to any standard diffusion model pipeline to elevate the image quality. Our motivation stems from the projected kurtosis concentration property of natural images, which states that natural images have nearly constant kurtosis values across different band-pass versions of the image. We validate the proposed approach for three diverse tasks, viz., (1) personalized few-shot finetuning using text guidance, (2) unconditional image generation, and (3) image super-resolution. </td>
+</tr>
+</tbody>
+</table>
+
+#### [ATDetect: Face Detection and Keypoint Extraction at Range and Altitude (IJCB23)]()
+
+Chun Pong Lau, **Maiterya Suin** and Rama Chellappa
+
+<table>
+<colgroup>
+<col width="25%" />
+<col width="85%" />
+</colgroup>
+<tbody>
+<tr>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/atdtct.png?raw=true" width="182" height="102"></td>
+<td markdown="span"> While face detection works well in ideal situations, the performance deteriorates sig-
+nificantly when the image is degraded, due to factors such as blur, deformation, low resolution, and extreme headpose. This motivates us to develop a face detection and alignment algorithm that could perform effectively on
+videos captured from a long range and high altitude without groundtruth annotations. We propose a single-stage face
+localization model ATDetect, which detects face bounding boxes, keypoints, and meta information simultaneously with
+realistic video captured at range and altitude </td>
+</tr>
+</tbody>
+</table>
+
 ### 2021
 #### [Distillation-guided Image Inpainting (ICCV21)](https://openaccess.thecvf.com/content/ICCV2021/papers/Suin_Distillation-Guided_Image_Inpainting_ICCV_2021_paper.pdf)
 
