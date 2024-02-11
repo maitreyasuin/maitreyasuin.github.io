@@ -1,4 +1,23 @@
 ##  Publications and Preprints
+### 2024
+#### [Diffuse and Restore: A Region-Adaptive Diffusion Model for Identity-Preserving Blind Face Restoration (WACV24)](https://openaccess.thecvf.com/content/WACV2024/papers/Suin_Diffuse_and_Restore_A_Region-Adaptive_Diffusion_Model_for_Identity-Preserving_Blind_WACV_2024_paper.pdf)
+
+**Maitreya Suin**, Nithin Gopalakrishnan Nair, Chun Pong Lau, Vishal M. Patel and Rama Chellappa.
+
+<table>
+<colgroup>
+<col width="25%" />
+<col width="85%" />
+</colgroup>
+<tbody>
+<tr>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/wacv.png?raw=true" width="182" height="102"></td>
+<td markdown="span"> Blind face restoration (BFR) from severely degraded face images in the wild is a highly ill-posed problem. Due to the complex unknown degradation, existing generative works typically struggle to restore realistic details when the input is of poor quality. Recently, diffusion-based approaches were successfully used for high-quality image synthesis. But, for BFR, maintaining a balance between the fidelity of the restored image and the reconstructed identity information is important. We present a conditional diffusion-based framework for BFR. We alleviate the drawbacks of existing diffusion-based approaches and design a region-adaptive strategy. This leads to a significant improvement in perceptual quality as well as face-recognition scores over existing GAN and
+diffusion-based restoration models. </td>
+</tr>
+</tbody>
+</table>
+
 ### 2021
 #### [Distillation-guided Image Inpainting (ICCV21)](https://openaccess.thecvf.com/content/ICCV2021/papers/Suin_Distillation-Guided_Image_Inpainting_ICCV_2021_paper.pdf)
 
