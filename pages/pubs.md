@@ -53,7 +53,24 @@ Chun Pong Lau, **Maiterya Suin** and Rama Chellappa
 nificantly when the image is degraded, due to factors such as blur, deformation, low resolution, and extreme headpose. This motivates us to develop a face detection and alignment algorithm that could perform effectively on
 videos captured from a long range and high altitude without groundtruth annotations. We propose a single-stage face
 localization model ATDetect, which detects face bounding boxes, keypoints, and meta information simultaneously with
-realistic video captured at range and altitude </td>
+realistic video captured at range and altitude. </td>
+</tr>
+</tbody>
+</table>
+
+#### [Illumination-Adaptive Unpaired Low-Light Enhancement (IEEE-TCSVT)](https://ieeexplore.ieee.org/document/10032640)
+
+Praveen Kandula, **Maitreya Suin** and A. N. Rajagopalan
+
+<table>
+<colgroup>
+<col width="25%" />
+<col width="85%" />
+</colgroup>
+<tbody>
+<tr>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/lowlight.png?raw=true" width="182" height="102"></td>
+<td markdown="span"> We propose an unsupervised low-light enhancement network using context-guided illumination-adaptive norm (CIN). We address this task in two stages. In stage- I, a pixel amplifier module (PAM) is used to generate a coarse estimate with an overall improvement in visibility and aesthetic quality. Stage- II further enhances the saturated dark pixels and scene properties of the image using CIN. We propose a region-adaptive single input multiple output (SIMO) model that can generate multiple enhanced images from a single low-light image. The objective of SIMO is to let users choose the image of their liking from a pool of enhanced images. </td>
 </tr>
 </tbody>
 </table>
