@@ -1,7 +1,7 @@
 ##  Publications and Preprints
 ### 2024
 
-#### [DCLR-Face: Conditional Latent Refinement for Blind Face Restoration Using Score-Based Diffusion Models (Arxiv-Preprint)]()
+#### [CLR-Face: Conditional Latent Refinement for Blind Face Restoration Using Score-Based Diffusion Models (Arxiv-Preprint)]()
 
 **Maitreya Suin** and Rama Chellappa.
 
@@ -109,6 +109,43 @@ Praveen Kandula, **Maitreya Suin** and A. N. Rajagopalan
 </tr>
 </tbody>
 </table>
+
+#### [Exploring the Effectiveness of Mask-Guided Feature Modulation as a Mechanism for Localized Style Editing of Real Images (AAAI23-SA)](https://arxiv.org/abs/2211.11224)
+
+Snehal Singh Tomar, **Maitreya Suin** and A. N. Rajagopalan.
+
+<table>
+<colgroup>
+<col width="25%" />
+<col width="85%" />
+</colgroup>
+<tbody>
+<tr>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/aaai_snehal.png?raw=true" width="182" height="102"></td>
+<td markdown="span"> Most existing style-editing methods work on the principle of inverting real images onto their latent space, followed by determining controllable directions. Both inversion of real images and determination of controllable latent directions are computationally expensive operations. This work aims to explore the effcacy of mask-guided feature modulation in the latent space of a Deep Generative Model as a solution to these bottlenecks. To this end, we present the SemanticStyle Autoencoder (SSAE), a deep Generative Autoencoder model that leverages semantic mask-guided latent space manipulation for highly localized photorealistic style editing of real
+images. </td>
+</tr>
+</tbody>
+</table>
+
+### 2022
+#### [Hybrid Transformer Based Feature Fusion for Self-Supervised Monocular Depth Estimation (ECCVW-22)](https://arxiv.org/abs/2211.11066)
+
+Snehal Singh Tomar, **Maitreya Suin** and A. N. Rajagopalan.
+
+<table>
+<colgroup>
+<col width="25%" />
+<col width="85%" />
+</colgroup>
+<tbody>
+<tr>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/depth.png?raw=true" width="182" height="102"></td>
+<td markdown="span"> Most State-of-the-art (SOTA) works in the self-supervised and unsupervised domain employ a ResNet-based encoder architecture to predict disparity maps from a given input image which are eventually used alongside a camera pose estimator to predict depth without direct supervision. The fully convolutional nature of ResNets makes them susceptible to capturing per-pixel local information only, which is suboptimal for depth prediction. Our key insight for doing away with this bottleneck is to use Vision Transformers, which employ self-attention to capture the global contextual information present in an input image. Our model fuses per-pixel local information learned using two fully convolutional depth encoders with global contextual information learned by a transformer encoder at different scales. </td>
+</tr>
+</tbody>
+</table>
+
 
 ### 2021
 #### [Distillation-guided Image Inpainting (ICCV21)](https://openaccess.thecvf.com/content/ICCV2021/papers/Suin_Distillation-Guided_Image_Inpainting_ICCV_2021_paper.pdf)
