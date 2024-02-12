@@ -13,7 +13,7 @@
 <tbody>
 <tr>
 <td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/ijcai.png?raw=true" width="182" height="102"></td>
-<td markdown="span"> Generating fine-grained facial details faithful to inputs remains a challenging problem. Most existing methods produce either overly smooth outputs or alter the identity as they attempt to balance between generation and reconstruction. This may be attributed to the typical trade-off between quality and resolution in the latent space. To address these issues, we introduce a diffusion-based-prior inside a VQGAN architecture that focuses on learning the distribution over uncorrupted latent embeddings. With such knowledge, we iteratively recover the clean embedding conditioning on the degraded counterpart. Furthermore, to ensure the reverse diffusion trajectory does not deviate from the underlying identity, we train a separate Identity Recovery Network and use its output to constrain the reverse diffusion process. </td>
+<td markdown="span"> Generating fine-grained facial details faithful to inputs remains a challenging problem. Most existing methods produce either overly smooth outputs or alter the identity as they attempt to balance between generation and reconstruction. This may be attributed to the typical trade-off between quality and resolution in the latent space. We introduce a diffusion-based-prior inside a VQGAN architecture that focuses on learning the distribution over uncorrupted latent embeddings. We iteratively recover the clean embedding conditioning on the degraded counterpart. To ensure the reverse diffusion trajectory does not deviate from the underlying identity, we train a separate Identity Recovery Network and use its output to constrain the diffusion process. </td>
 </tr>
 </tbody>
 </table>
@@ -47,8 +47,7 @@
 <tbody>
 <tr>
 <td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/wacv.png?raw=true" width="182" height="102"></td>
-<td markdown="span"> Blind face restoration (BFR) from severely degraded face images in the wild is a highly ill-posed problem. Due to the complex unknown degradation, existing generative works typically struggle to restore realistic details when the input is of poor quality. Recently, diffusion-based approaches were successfully used for high-quality image synthesis. But, for BFR, maintaining a balance between the fidelity of the restored image and the reconstructed identity information is important. We present a conditional diffusion-based framework for BFR. We alleviate the drawbacks of existing diffusion-based approaches and design a region-adaptive strategy. This leads to a significant improvement in perceptual quality as well as face-recognition scores over existing GAN and
-diffusion-based restoration models. </td>
+<td markdown="span"> Blind face restoration (BFR) from severely degraded face images in the wild is a highly ill-posed problem. Existing generative works typically struggle to restore realistic details when the input is of poor quality. For BFR, maintaining a balance between the fidelity of the restored image and the reconstructed identity information is important. We present a conditional diffusion-based framework for BFR. We alleviate the drawbacks of existing diffusion-based approaches and design a region-adaptive strategy. This leads to a significant improvement in perceptual quality as well as face-recognition scores. </td>
 </tr>
 </tbody>
 </table>
