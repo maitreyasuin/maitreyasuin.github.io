@@ -20,7 +20,7 @@
 
 #### [Spatially-Attentive Patch-Hierarchical Network with Adaptive Sampling for Motion Deblurring (Arxiv-Preprint)]()
 
-**Maitreya Suin** and Rama Chellappa.
+**Maitreya Suin**, Kuldeep Purohit and A. N. Rajagopalan.
 
 <table>
 <colgroup>
