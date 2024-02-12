@@ -1,5 +1,40 @@
 ##  Publications and Preprints
 ### 2024
+
+#### [DCLR-Face: Conditional Latent Refinement for Blind Face Restoration Using Score-Based Diffusion Models (Arxiv-Preprint)]()
+
+**Maitreya Suin** and Rama Chellappa.
+
+<table>
+<colgroup>
+<col width="25%" />
+<col width="85%" />
+</colgroup>
+<tbody>
+<tr>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/ijcai.png?raw=true" width="182" height="102"></td>
+<td markdown="span"> Generating fine-grained facial details faithful to inputs remains a challenging problem. Most existing methods produce either overly smooth outputs or alter the identity as they attempt to balance between generation and reconstruction. This may be attributed to the typical trade-off between quality and resolution in the latent space. To address these issues, we introduce a diffusion-based-prior inside a VQGAN architecture that focuses on learning the distribution over uncorrupted latent embeddings. With such knowledge, we iteratively recover the clean embedding conditioning on the degraded counterpart. Furthermore, to ensure the reverse diffusion trajectory does not deviate from the underlying identity, we train a separate Identity Recovery Network and use its output to constrain the reverse diffusion process. </td>
+</tr>
+</tbody>
+</table>
+
+#### [Spatially-Attentive Patch-Hierarchical Network with Adaptive Sampling for Motion Deblurring (Arxiv-Preprint)]()
+
+**Maitreya Suin** and Rama Chellappa.
+
+<table>
+<colgroup>
+<col width="25%" />
+<col width="85%" />
+</colgroup>
+<tbody>
+<tr>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/ext.png?raw=true" width="182" height="102"></td>
+<td markdown="span"> We propose a pixel-adaptive and feature-attentive design for handling large blur variations across different spatial locations and process each test image adaptively. We design a content-aware global-local filtering module that significantly improves performance by considering not only global dependencies but also by dynamically exploiting neighboring pixel information. We further introduce a pixel-adaptive non-uniform sampling strategy that implicitly discovers the difficult-to-restore regions present in the image and, in turn, performs fine-grained refinement in a progressive manner. </td>
+</tr>
+</tbody>
+</table>
+
 #### [Diffuse and Restore: A Region-Adaptive Diffusion Model for Identity-Preserving Blind Face Restoration (WACV24)](https://openaccess.thecvf.com/content/WACV2024/papers/Suin_Diffuse_and_Restore_A_Region-Adaptive_Diffusion_Model_for_Identity-Preserving_Blind_WACV_2024_paper.pdf)
 
 **Maitreya Suin**, Nithin Gopalakrishnan Nair, Chun Pong Lau, Vishal M. Patel and Rama Chellappa.
