@@ -1,7 +1,7 @@
 ##  Publications and Preprints
 ### 2024
 
-#### [CLR-Face: Conditional Latent Refinement for Blind Face Restoration Using Score-Based Diffusion Models (Arxiv-Preprint)]()
+#### [CLR-Face: Conditional Latent Refinement for Blind Face Restoration Using Score-Based Diffusion Models (Arxiv-Preprint)](https://arxiv.org/pdf/2402.06106.pdf)
 
 **Maitreya Suin** and Rama Chellappa.
 
@@ -18,7 +18,7 @@
 </tbody>
 </table>
 
-#### [Spatially-Attentive Patch-Hierarchical Network with Adaptive Sampling for Motion Deblurring (Arxiv-Preprint)]()
+#### [Spatially-Attentive Patch-Hierarchical Network with Adaptive Sampling for Motion Deblurring (Arxiv-Preprint)](https://arxiv.org/pdf/2402.06117.pdf)
 
 **Maitreya Suin**, Kuldeep Purohit and A. N. Rajagopalan.
 
