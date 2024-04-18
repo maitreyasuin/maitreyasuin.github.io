@@ -3,6 +3,8 @@ I am a postdoctoral researcher in the **[AIEM Lab, Johns Hopkins University](htt
 ---
 
 ## Updates 
+- (2024.04) Our paper "CLR-Face: Conditional Latent Refinement for Blind Face Restoration Using Score-Based Diffusion Models" has been accepted at the International Joint Conference on Artificial  Intelligence **([IJCAI24](https://ijcai24.org/))**.
+
 - (2023.11) Our paper "Diffuse and Restore: A Region-Adaptive Diffusion Model for Identity-Preserving Blind
 Face Restoration" has been accepted at Winter Conference on Applications of Computer Vision, 2024 **([WACV](https://wacv2024.thecvf.com/))**.
 
