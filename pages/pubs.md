@@ -1,7 +1,7 @@
 ##  Publications and Preprints
 ### 2024
 
-#### [CLR-Face: Conditional Latent Refinement for Blind Face Restoration Using Score-Based Diffusion Models (Arxiv-Preprint)](https://arxiv.org/pdf/2402.06106.pdf)
+#### [CLR-Face: Conditional Latent Refinement for Blind Face Restoration Using Score-Based Diffusion Models (IJCAI24)](https://arxiv.org/pdf/2402.06106.pdf)
 
 **Maitreya Suin** and Rama Chellappa.
 
