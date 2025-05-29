@@ -3,7 +3,7 @@
 
 #### [MultLFG: Training-free Multi-LoRA composition using Frequency-domain Guidance (Arxic-Preprint)](https://arxiv.org/pdf/2505.20525)
 
-**Maitreya Suin** and Rama Chellappa.
+Aniket Roy, **Maitreya Suin**, Ketul Shah and Rama Chellappa.
 
 <table>
 <colgroup>
