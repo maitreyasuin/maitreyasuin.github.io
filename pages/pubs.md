@@ -1,4 +1,25 @@
 ##  Publications and Preprints
+### 2025
+
+#### [MultLFG: Training-free Multi-LoRA composition using Frequency-domain Guidance (Arxic-Preprint)](https://arxiv.org/pdf/2505.20525)
+
+**Maitreya Suin** and Rama Chellappa.
+
+<table>
+<colgroup>
+<col width="25%" />
+<col width="85%" />
+</colgroup>
+<tbody>
+<tr>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/multlfg.png?raw=true" width="182" height="102"></td>
+<td markdown="span"> MultLFG, a novel framework for training-free multi-LoRA composition that utilizes frequency-domain guidance to achieve adaptive fusion of multiple LoRAs. MultLFG employs a timestep and frequency subband adaptive fusion strategy, selectively activating relevant LoRAs based on content relevance at specific timesteps and frequency bands. This frequency-sensitive guidance not only improves spatial coherence but also provides
+finer control over multi-LoRA composition, leading to more accurate and consistent results. Experimental evaluations on the ComposLoRA benchmark reveal that MultLFG substantially enhances compositional fidelity and image quality across various styles and concept sets, outperforming state-of-the-art baselines in
+multi-concept generation tasks. </td>
+</tr>
+</tbody>
+</table>
+
 ### 2024
 
 #### [CLR-Face: Conditional Latent Refinement for Blind Face Restoration Using Score-Based Diffusion Models (IJCAI24)](https://arxiv.org/pdf/2402.06106.pdf)
