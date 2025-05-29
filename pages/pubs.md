@@ -1,7 +1,7 @@
 ##  Publications and Preprints
 ### 2025
 
-#### [MultLFG: Training-free Multi-LoRA composition using Frequency-domain Guidance (Arxic-Preprint)](https://arxiv.org/pdf/2505.20525)
+#### [MultLFG: Training-free Multi-LoRA composition using Frequency-domain Guidance (Arxiv-Preprint)](https://arxiv.org/pdf/2505.20525)
 
 Aniket Roy, **Maitreya Suin**, Ketul Shah and Rama Chellappa.
 
@@ -14,7 +14,7 @@ Aniket Roy, **Maitreya Suin**, Ketul Shah and Rama Chellappa.
 <tr>
 <td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/multlfg.png?raw=true" width="182" height="102"></td>
 <td markdown="span"> MultLFG, a novel framework for training-free multi-LoRA composition that utilizes frequency-domain guidance to achieve adaptive fusion of multiple LoRAs. MultLFG employs a timestep and frequency subband adaptive fusion strategy, selectively activating relevant LoRAs based on content relevance at specific timesteps and frequency bands. This frequency-sensitive guidance not only improves spatial coherence but also provides
-finer control over multi-LoRA composition, leading to more accurate and consistent results. MultLFG substantially enhances compositional fidelity and image quality across various styles and concept sets, outperforming prior art in multi-concept generation tasks. </td>
+finer control over multi-LoRA composition, leading to more accurate and consistent results. MultLFG substantially enhances compositional fidelity and image quality across various styles and concept sets, outperforming prior art in multi-concept generation. </td>
 </tr>
 </tbody>
 </table>
