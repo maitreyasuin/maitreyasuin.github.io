@@ -14,8 +14,7 @@
 <tr>
 <td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/multlfg.png?raw=true" width="182" height="102"></td>
 <td markdown="span"> MultLFG, a novel framework for training-free multi-LoRA composition that utilizes frequency-domain guidance to achieve adaptive fusion of multiple LoRAs. MultLFG employs a timestep and frequency subband adaptive fusion strategy, selectively activating relevant LoRAs based on content relevance at specific timesteps and frequency bands. This frequency-sensitive guidance not only improves spatial coherence but also provides
-finer control over multi-LoRA composition, leading to more accurate and consistent results. Experimental evaluations on the ComposLoRA benchmark reveal that MultLFG substantially enhances compositional fidelity and image quality across various styles and concept sets, outperforming state-of-the-art baselines in
-multi-concept generation tasks. </td>
+finer control over multi-LoRA composition, leading to more accurate and consistent results. MultLFG substantially enhances compositional fidelity and image quality across various styles and concept sets, outperforming prior art in multi-concept generation tasks. </td>
 </tr>
 </tbody>
 </table>
