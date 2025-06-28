@@ -1,6 +1,23 @@
 ##  Publications and Preprints
 ### 2025
 
+#### [DIFFNAT: Improving Diffusion Image Quality Using Natural Image Statistics (Transactions on Machine Learning Research)](https://arxiv.org/pdf/2311.09753.pdf)
+
+Aniket Roy, **Maiterya Suin**, Anshul Shah, Ketul Shah, Jiang Liu, Rama Chellappa
+
+<table>
+<colgroup>
+<col width="25%" />
+<col width="85%" />
+</colgroup>
+<tbody>
+<tr>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/diffnat.png?raw=true" width="182" height="102"></td>
+<td markdown="span"> We propose a generic “naturalness” preserving loss function, viz., kurtosis concentration (KC) loss, which can be readily applied to any standard diffusion model pipeline to elevate the image quality. Our motivation stems from the projected kurtosis concentration property of natural images, which states that natural images have nearly constant kurtosis values across different band-pass versions of the image. We validate the proposed approach for three diverse tasks, viz., (1) personalized few-shot finetuning using text guidance, (2) unconditional image generation, and (3) image super-resolution. </td>
+</tr>
+</tbody>
+</table>
+
 #### [MultLFG: Training-free Multi-LoRA composition using Frequency-domain Guidance (Arxiv-Preprint)](https://arxiv.org/pdf/2505.20525)
 
 Aniket Roy, **Maitreya Suin**, Ketul Shah and Rama Chellappa.
@@ -74,22 +91,6 @@ finer control over multi-LoRA composition, leading to more accurate and consiste
 
 
 ### 2023
-#### [DIFFNAT: Improving Diffusion Image Quality Using Natural Image Statistics (Arxiv-Preprint)](https://arxiv.org/pdf/2311.09753.pdf)
-
-Aniket Roy, **Maiterya Suin**, Anshul Shah, Ketul Shah, Jiang Liu, Rama Chellappa
-
-<table>
-<colgroup>
-<col width="25%" />
-<col width="85%" />
-</colgroup>
-<tbody>
-<tr>
-<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/diffnat.png?raw=true" width="182" height="102"></td>
-<td markdown="span"> We propose a generic “naturalness” preserving loss function, viz., kurtosis concentration (KC) loss, which can be readily applied to any standard diffusion model pipeline to elevate the image quality. Our motivation stems from the projected kurtosis concentration property of natural images, which states that natural images have nearly constant kurtosis values across different band-pass versions of the image. We validate the proposed approach for three diverse tasks, viz., (1) personalized few-shot finetuning using text guidance, (2) unconditional image generation, and (3) image super-resolution. </td>
-</tr>
-</tbody>
-</table>
 
 #### [ATDetect: Face Detection and Keypoint Extraction at Range and Altitude (IJCB23)]()
 
