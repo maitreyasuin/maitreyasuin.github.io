@@ -1,6 +1,24 @@
 ##  Publications and Preprints
 ### 2025
 
+#### [Improved Representation Learning for Unconstrained Face Recognition)](https://kartik-3004.github.io/portfolio/papers/FG2025_SwinFR.pdf)
+
+Nithin Gopalakrishnan Nair, Kartik Narayan, **Maitreya Suin**, Ram Prabhakar Kathirvel, Jennifer Xu, Soraya Stevens, Joshua Gleason, Nathan Shnidman, Rama Chellappa, Vishal M. Patel
+
+<table>
+<colgroup>
+<col width="25%" />
+<col width="85%" />
+</colgroup>
+<tbody>
+<tr>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/fg.png?raw=true" width="182" height="102"></td>
+<td markdown="span"> We tackle the problem of low-quality face recognition. We base our analysis on an observation that the change of loss functions produces marginal changes in performance for low-quality face recognition. Hence, rather than following the traditional approach of defining problem-specific regularized functions, we take a closer look at the nature of data in low resolution datasets and redefine paradigms in terms of model choice, data input pipeline and fine-tuning schemes. We achieve state-of-the-art results in multiple challenging benchmarks for unconstrained face recognition. </td>
+</tr>
+</tbody>
+</table>
+
+
 #### [DIFFNAT: Improving Diffusion Image Quality Using Natural Image Statistics (Transactions on Machine Learning Research)](https://arxiv.org/pdf/2311.09753.pdf)
 
 Aniket Roy, **Maiterya Suin**, Anshul Shah, Ketul Shah, Jiang Liu, Rama Chellappa
