@@ -1,7 +1,7 @@
 ##  Publications and Preprints
 ### 2025
 
-#### [Improved Representation Learning for Unconstrained Face Recognition)](https://kartik-3004.github.io/portfolio/papers/FG2025_SwinFR.pdf)
+#### [Improved Representation Learning for Unconstrained Face Recognition (FG 2025)](https://kartik-3004.github.io/portfolio/papers/FG2025_SwinFR.pdf)
 
 Nithin Gopalakrishnan Nair, Kartik Narayan, **Maitreya Suin**, Ram Prabhakar Kathirvel, Jennifer Xu, Soraya Stevens, Joshua Gleason, Nathan Shnidman, Rama Chellappa, Vishal M. Patel
 
