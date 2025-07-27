@@ -3,6 +3,8 @@ I am working as a Senior Researcher, AI at Samsung AI Center Toronto. Before tha
 ---
 
 ## Updates 
+- (2025.06) Our paper "Improved Representation Learning for Unconstrained Face Recognition" has been accepted at the IEEE International Conference on Automatic Face and Gesture Recognition **([FG 2025](https://fg2025.ieee-biometrics.org/))**.
+
 - (2025.06) Our paper "DiffNat : Exploiting the Kurtosis Concentration Property for Image quality improvement" has been accepted at the Transactions on Machine Learning Research **([TMLR](https://jmlr.org/tmlr/))**.
 
 - (2024.04) Our paper "CLR-Face: Conditional Latent Refinement for Blind Face Restoration Using Score-Based Diffusion Models" has been accepted at the International Joint Conference on Artificial  Intelligence **([IJCAI24](https://ijcai24.org/))**.
