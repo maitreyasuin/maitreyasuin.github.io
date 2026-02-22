@@ -3,7 +3,7 @@
 
 #### [Face2Scene: Using Facial Degradation as an Oracle for Diffusion-Based Scene Restoration (CVPR 2026)]()
 
-Nithin Gopalakrishnan Nair, Kartik Narayan, **Maitreya Suin**, Ram Prabhakar Kathirvel, Jennifer Xu, Soraya Stevens, Joshua Gleason, Nathan Shnidman, Rama Chellappa, Vishal M. Patel
+Amirhossein Kazerouni, **Maitreya Suin**, Tristan Ty Aumentado-Armstrong, Sina Honari, Amanpreet Walia, Iqbal Mohomed, Konstantinos G. Derpanis, Babak Taati, Alex Levinshtein
 
 <table>
 <colgroup>
