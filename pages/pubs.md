@@ -1,4 +1,23 @@
 ##  Publications and Preprints
+### 2026
+
+#### [Face2Scene: Using Facial Degradation as an Oracle for Diffusion-Based Scene Restoration (FG 2025)]()
+
+Nithin Gopalakrishnan Nair, Kartik Narayan, **Maitreya Suin**, Ram Prabhakar Kathirvel, Jennifer Xu, Soraya Stevens, Joshua Gleason, Nathan Shnidman, Rama Chellappa, Vishal M. Patel
+
+<table>
+<colgroup>
+<col width="25%" />
+<col width="85%" />
+</colgroup>
+<tbody>
+<tr>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/face2scene.png?raw=true" width="182" height="102"></td>
+<td markdown="span"> We propose Face2Scene, a two-stage restoration framework that leverages the face as a perceptual oracle to estimate degradation and guide the restoration of the entire image. Given a degraded image and one or more identity references, we first apply a Ref-FR model to reconstruct high-quality facial details. From the restored–degraded face pair, we extract a face-derived degradation code that captures degradation attributes (e.g., noise, blur, compression), which is then transformed into multi-scale degradation-aware tokens. These tokens condition a diffusion model to restore the full scene in a single step, including the body and background. </td>
+</tr>
+</tbody>
+</table>
+
 ### 2025
 
 #### [Improved Representation Learning for Unconstrained Face Recognition (FG 2025)](https://kartik-3004.github.io/portfolio/papers/FG2025_SwinFR.pdf)
