@@ -1,7 +1,7 @@
 ##  Publications and Preprints
 ### 2026
 
-#### [Face2Scene: Using Facial Degradation as an Oracle for Diffusion-Based Scene Restoration (FG 2025)]()
+#### [Face2Scene: Using Facial Degradation as an Oracle for Diffusion-Based Scene Restoration (CVPR 2026)]()
 
 Nithin Gopalakrishnan Nair, Kartik Narayan, **Maitreya Suin**, Ram Prabhakar Kathirvel, Jennifer Xu, Soraya Stevens, Joshua Gleason, Nathan Shnidman, Rama Chellappa, Vishal M. Patel
 
