@@ -1,7 +1,7 @@
 ##  Publications and Preprints
 ### 2026
 
-#### [Face2Scene: Using Facial Degradation as an Oracle for Diffusion-Based Scene Restoration (CVPR 2026)]()
+#### [Face2Scene: Using Facial Degradation as an Oracle for Diffusion-Based Scene Restoration (CVPR 2026)](https://arxiv.org/pdf/2603.16570)
 
 Amirhossein Kazerouni, **Maitreya Suin**, Tristan Ty Aumentado-Armstrong, Sina Honari, Amanpreet Walia, Iqbal Mohomed, Konstantinos G. Derpanis, Babak Taati, Alex Levinshtein
 
