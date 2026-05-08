@@ -19,7 +19,7 @@ finer control over multi-LoRA composition, leading to more accurate and consiste
 </tbody>
 </table>
 
-#### [DegradeSense-VLM:Tool-AugmentedVision-LanguageModelPost-Training for Degradation-Aware Image Quality Reasoning]()
+#### [DegradeSense-VLM:Tool-Augmented Vision-Language Model Post-Training for Degradation-Aware Image Quality Reasoning]()
 
 **Maitreya Suin** _et al._
 
