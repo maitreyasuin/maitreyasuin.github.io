@@ -47,7 +47,7 @@ Dong Huo, Tristan Aumentado-Armstrong, Samrudhdhi B. Rangrej, **Maitreya Suin** 
 </colgroup>
 <tbody>
 <tr>
-<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/face2scene.png?raw=true" width="182" height="102"></td>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/burstgp?raw=true" width="182" height="102"></td>
 <td markdown="span"> BurstGP addresses burst image super-resolution by using generative diffusion priors to recover sharper textures and finer details from multiple low-resolution RAW burst frames. Unlike conventional BISR methods that often produce oversmoothed outputs, BurstGP builds a multi-frame-aware diffusion refinement module on top of a standard BISR reconstruction. It introduces degradation-aware conditioning to control the amount of generated detail based on input quality, along with a robust sRGB-to-lRGB inverter to bridge video diffusion priors with RAW/lRGB imaging. Empirically, BurstGP improves perceptual quality, especially on metrics such as MUSIQ and LPIPS, while preserving fidelity and producing richer structural details. </td>
 </tr>
 </tbody>
