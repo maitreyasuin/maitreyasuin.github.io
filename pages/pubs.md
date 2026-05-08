@@ -1,4 +1,59 @@
 ##  Publications and Preprints
+### Under Review
+
+#### [MultLFG: Training-free Multi-LoRA composition using Frequency-domain Guidance (Arxiv-Preprint)](https://arxiv.org/pdf/2505.20525)
+
+Aniket Roy, **Maitreya Suin**, _et al._
+
+<table>
+<colgroup>
+<col width="25%" />
+<col width="85%" />
+</colgroup>
+<tbody>
+<tr>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/multlfg.png?raw=true" width="182" height="102"></td>
+<td markdown="span"> MultLFG, a novel framework for training-free multi-LoRA composition that utilizes frequency-domain guidance to achieve adaptive fusion of multiple LoRAs. MultLFG employs a timestep and frequency subband adaptive fusion strategy, selectively activating relevant LoRAs based on content relevance at specific timesteps and frequency bands. This frequency-sensitive guidance not only improves spatial coherence but also provides
+finer control over multi-LoRA composition, leading to more accurate and consistent results. MultLFG substantially enhances compositional fidelity and image quality across various styles and concept sets, outperforming prior art in multi-concept generation. </td>
+</tr>
+</tbody>
+</table>
+
+#### [DegradeSense-VLM:Tool-AugmentedVision-LanguageModelPost-Training for Degradation-Aware Image Quality Reasoning]()
+
+**Maitreya Suin** _et al._
+
+<table>
+<colgroup>
+<col width="25%" />
+<col width="85%" />
+</colgroup>
+<tbody>
+<tr>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/face2scene.png?raw=true" width="182" height="102"></td>
+<td markdown="span"> We propose DegradeSense-VLM, a tool-augmented VLM/LLM framework for degradation-aware image quality reasoning and camera-pipeline data curation. Given an image and visual diagnostics from OCR, face-quality, blur/noise, exposure, and restoration probes, DegradeSense-VLM produces structured degradation reports, severity estimates, downstream-risk analysis, routing decisions, and concise failure rationales. The model is instruction-tuned with synthetic and curated degradation cases, and preference-tuned to improve schema validity, calibration, and evidence-grounded reasoning. </td>
+</tr>
+</tbody>
+</table>
+
+#### [BurstGP: Enhancing Raw Burst Image Super Resolution with Generative Priors](https://arxiv.org/pdf/2604.23508)
+
+Dong Huo, Tristan Aumentado-Armstrong, Samrudhdhi B. Rangrej, **Maitreya Suin** _et al._
+
+<table>
+<colgroup>
+<col width="25%" />
+<col width="85%" />
+</colgroup>
+<tbody>
+<tr>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/face2scene.png?raw=true" width="182" height="102"></td>
+<td markdown="span"> BurstGP addresses burst image super-resolution by using generative diffusion priors to recover sharper textures and finer details from multiple low-resolution RAW burst frames. Unlike conventional BISR methods that often produce oversmoothed outputs, BurstGP builds a multi-frame-aware diffusion refinement module on top of a standard BISR reconstruction. It introduces degradation-aware conditioning to control the amount of generated detail based on input quality, along with a robust sRGB-to-lRGB inverter to bridge video diffusion priors with RAW/lRGB imaging. Empirically, BurstGP improves perceptual quality, especially on metrics such as MUSIQ and LPIPS, while preserving fidelity and producing richer structural details. </td>
+</tr>
+</tbody>
+</table>
+
+
 ### 2026
 
 #### [Face2Scene: Using Facial Degradation as an Oracle for Diffusion-Based Scene Restoration (CVPR 2026)](https://arxiv.org/pdf/2603.16570)
@@ -55,23 +110,6 @@ Aniket Roy, **Maiterya Suin**, Anshul Shah, Ketul Shah, Jiang Liu, Rama Chellapp
 </tbody>
 </table>
 
-#### [MultLFG: Training-free Multi-LoRA composition using Frequency-domain Guidance (Arxiv-Preprint)](https://arxiv.org/pdf/2505.20525)
-
-Aniket Roy, **Maitreya Suin**, Ketul Shah and Rama Chellappa.
-
-<table>
-<colgroup>
-<col width="25%" />
-<col width="85%" />
-</colgroup>
-<tbody>
-<tr>
-<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/multlfg.png?raw=true" width="182" height="102"></td>
-<td markdown="span"> MultLFG, a novel framework for training-free multi-LoRA composition that utilizes frequency-domain guidance to achieve adaptive fusion of multiple LoRAs. MultLFG employs a timestep and frequency subband adaptive fusion strategy, selectively activating relevant LoRAs based on content relevance at specific timesteps and frequency bands. This frequency-sensitive guidance not only improves spatial coherence but also provides
-finer control over multi-LoRA composition, leading to more accurate and consistent results. MultLFG substantially enhances compositional fidelity and image quality across various styles and concept sets, outperforming prior art in multi-concept generation. </td>
-</tr>
-</tbody>
-</table>
 
 ### 2024
 
