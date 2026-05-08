@@ -30,7 +30,7 @@ finer control over multi-LoRA composition, leading to more accurate and consiste
 </colgroup>
 <tbody>
 <tr>
-<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/face2scene.png?raw=true" width="182" height="102"></td>
+<td markdown="span"><img src="https://github.com/maitreyasuin/maitreyasuin.github.io/blob/master/images/degradeVLM.png?raw=true" width="182" height="102"></td>
 <td markdown="span"> We propose DegradeSense-VLM, a tool-augmented VLM/LLM framework for degradation-aware image quality reasoning and camera-pipeline data curation. Given an image and visual diagnostics from OCR, face-quality, blur/noise, exposure, and restoration probes, DegradeSense-VLM produces structured degradation reports, severity estimates, downstream-risk analysis, routing decisions, and concise failure rationales. The model is instruction-tuned with synthetic and curated degradation cases, and preference-tuned to improve schema validity, calibration, and evidence-grounded reasoning. </td>
 </tr>
 </tbody>
