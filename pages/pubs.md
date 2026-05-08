@@ -1,7 +1,7 @@
 ##  Publications and Preprints
 ### Under Review
 
-#### [MultLFG: Training-free Multi-LoRA composition using Frequency-domain Guidance (Arxiv-Preprint)](https://arxiv.org/pdf/2505.20525)
+#### [MultLFG: Training-free Multi-LoRA composition using Frequency-domain Guidance](https://arxiv.org/pdf/2505.20525)
 
 Aniket Roy, **Maitreya Suin**, _et al._
 
