@@ -3,7 +3,7 @@ I am working as a Senior Researcher, AI at Samsung AI Center Toronto. Before tha
 ---
 
 ## Updates 
-- (2026.07) Started writing technical notes — see [**Notes**](https://maitreyasuin.github.io/blog/).
+- (2026.07) Started writing technical notes — see **[Notes](https://maitreyasuin.github.io/blog/)**.
   
 - (2026.05) Our paper "Face2Scene: Using Facial Degradation as an Oracle for Diffusion-Based Scene Restoration" has been accepted at **[CVPR 2026](https://cvpr.thecvf.com)**.
   
