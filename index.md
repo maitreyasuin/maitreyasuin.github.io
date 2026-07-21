@@ -6,11 +6,12 @@ My research expertise lies in the domains of computer vision, machine learning, 
 
 ## Writing
 
-I write [**Modern AI, Under the Hood**](https://maitreyasuin.github.io/blog/) — deep technical notes on the modern AI stack, with runnable code, derivations, and measured benchmarks.
+I write **[Modern AI, Under the Hood](https://maitreyasuin.github.io/blog/)** — deep technical notes on the modern AI stack, with runnable code, derivations, and measured benchmarks.
 
 Recent: [The KV Cache: Build It, Break It, Measure It](https://maitreyasuin.github.io/blog/notes/llm-systems/inference/kv-cache/) ·
 [FlashAttention: The Matrix You Never Have to Write Down](https://maitreyasuin.github.io/blog/notes/llm-systems/inference/flash-attention/02-flash-attention.html) ·
 [A Tensor Is a Flat Buffer and a Promise](https://maitreyasuin.github.io/blog/notes/fundamentals/tensors/01-strides-views-contiguity.html)
+
 ---
 
 ## Updates 
