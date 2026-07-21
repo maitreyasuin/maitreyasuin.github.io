@@ -12,7 +12,6 @@ Recent: [The KV Cache: Build It, Break It, Measure It](https://maitreyasuin.gith
 [FlashAttention: The Matrix You Never Have to Write Down](https://maitreyasuin.github.io/blog/notes/llm-systems/inference/flash-attention/02-flash-attention.html) ·
 [A Tensor Is a Flat Buffer and a Promise](https://maitreyasuin.github.io/blog/notes/fundamentals/tensors/01-strides-views-contiguity.html)
 
----
 
 ## Updates 
   
