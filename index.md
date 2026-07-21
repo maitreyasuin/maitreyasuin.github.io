@@ -1,9 +1,19 @@
-I am working as a Senior Researcher, AI at Samsung AI Center Toronto. Before that, I was a postdoctoral researcher in the **[AIEM Lab, Johns Hopkins University](https://aiem.jhu.edu/)**. I was advised by **[Prof. Rama Chellappa](https://engineering.jhu.edu/faculty/rama-chellappa/)** specializing in topics related to Computer Vision and Machine Learning. Previously, I completed my MS and PhD at **[Image Processing and Computer Vision Lab, IIT Madras](http://www.ee.iitm.ac.in/ipcvlab/)** under the supervision of **[Prof. A. N. Rajagopalan](https://www.ee.iitm.ac.in/raju/)**. My research expertise lies in the domains of computer vision, machine learning, and multimodal generative AI, with a specific focus on diffusion models, vision-language models, post-training, camera image-processing pipelines, image and video restoration, and image/face recognition and detection. My recent work involves leveraging foundation models, including diffusion models and VLM/LLM-based reasoning systems, for tasks such as degradation-aware image-quality analysis, camera-pipeline triage, blind face restoration, and few-shot personalized generation/editing, with an emphasis on perceptual quality, identity preservation, reliability, and efficiency. During my PhD, I focused on building adaptive neural networks for handling spatially and temporally varying tasks, using efficient non-local attention and spatially varying filtering modules for images and videos.
+I am working as a Senior Researcher, AI at Samsung AI Center Toronto. Before that, I was a postdoctoral researcher in the **[AIEM Lab, Johns Hopkins University](https://aiem.jhu.edu/)**. I was advised by **[Prof. Rama Chellappa](https://engineering.jhu.edu/faculty/rama-chellappa/)** specializing in topics related to Computer Vision and Machine Learning. Previously, I completed my MS and PhD at **[Image Processing and Computer Vision Lab, IIT Madras](http://www.ee.iitm.ac.in/ipcvlab/)** under the supervision of **[Prof. A. N. Rajagopalan](https://www.ee.iitm.ac.in/raju/)**. 
+
+My research expertise lies in the domains of computer vision, machine learning, and multimodal generative AI, with a specific focus on diffusion models, vision-language models, post-training, camera image-processing pipelines, image and video restoration, and image/face recognition and detection. My recent work involves leveraging foundation models, including diffusion models and VLM/LLM-based reasoning systems, for tasks such as degradation-aware image-quality analysis, camera-pipeline triage, blind face restoration, and few-shot personalized generation/editing, with an emphasis on perceptual quality, identity preservation, reliability, and efficiency. During my PhD, I focused on building adaptive neural networks for handling spatially and temporally varying tasks, using efficient non-local attention and spatially varying filtering modules for images and videos.
 
 ---
 
+## Writing
+
+I write [**Modern AI, Under the Hood**](https://maitreyasuin.github.io/blog/) — deep technical notes on the modern AI stack, with runnable code, derivations, and measured benchmarks.
+
+Recent: [The KV Cache: Build It, Break It, Measure It](https://maitreyasuin.github.io/blog/notes/llm-systems/inference/kv-cache/) ·
+[FlashAttention: The Matrix You Never Have to Write Down](https://maitreyasuin.github.io/blog/notes/llm-systems/inference/flash-attention/02-flash-attention.html) ·
+[A Tensor Is a Flat Buffer and a Promise](https://maitreyasuin.github.io/blog/notes/fundamentals/tensors/01-strides-views-contiguity.html)
+---
+
 ## Updates 
-- (2026.07) Started writing technical notes — see **[Notes](https://maitreyasuin.github.io/blog/)**.
   
 - (2026.05) Our paper "Face2Scene: Using Facial Degradation as an Oracle for Diffusion-Based Scene Restoration" has been accepted at **[CVPR 2026](https://cvpr.thecvf.com)**.
   
